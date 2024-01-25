@@ -12,8 +12,10 @@ namespace Module2Review
         private int Id { get; set; }
         private List<double> Grades { get; set; }
 
-        public Student()
+        public Student(string name, int id)
         {
+            Name = name;
+            Id = id;
             Grades = new List<double>();
         }
 
