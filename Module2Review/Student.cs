@@ -35,5 +35,10 @@ namespace Module2Review
                 return 0;
             return Grades.Average();
         }
+
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"Student: {Name}\nStudent ID: {Id}\nStudent Grade Average: {CalculateAverageGrades()}");
+        }
     }
 }
