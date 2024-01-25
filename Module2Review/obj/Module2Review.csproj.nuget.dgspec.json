@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review\\Module2Review.csproj": {}
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review\\Module2Review.csproj": {
+    "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review\\Module2Review.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review.csproj",
         "projectName": "Module2Review",
-        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review\\Module2Review.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\Module2Review\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\repos\\Module2\\Module2Review\\Module2Review\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
