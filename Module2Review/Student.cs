@@ -17,5 +17,21 @@ namespace Module2Review
             Grades = new List<double>();
         }
 
+        public void AddGrade(double grade)
+        {
+            Grades.Add(grade);
+        }
+
+        public void AddGrade(params double[] grades)
+        {
+            Grades.AddRange(grades);
+        }
+
+        public double CalculateAverageGrades()
+        {
+            if(Grades.Count == 0) 
+                return 0;
+            return Grades.Average();
+        }
     }
 }
